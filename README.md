@@ -115,3 +115,17 @@ PDF file to reinforce the dictionary-attack concept.
 |----------------------------------|--------------------------------------|-------------------|-----------------------------------------|
 | Module 1 – JTR / Johnny          | John the Ripper + Johnny             | good-luck         | nw{networkwalks_persistence_jtr_270521} |
 | Module 2 – Networkwalks Tools    | Hash Calculator + Password Cracker   | password1         | nw{cybersecurity_flag_captured_2608}    |
+
+## Key Learnings
+
+- Understood how password-protected PDF files use encryption mechanisms and how password hashes can be extracted for security testing.
+- Learned the practical workflow of using John the Ripper (JTR) and Johnny GUI to perform dictionary-based password attacks on extracted PDF hashes.
+- Gained experience with browser-based password-cracking utilities and understood how they simplify hash analysis without requiring additional software installation.
+- Observed how dictionary attacks use predefined wordlists to identify weak passwords by testing possible combinations against the extracted hash.
+- Successfully recovered passwords from multiple sample PDFs, demonstrating how predictable passwords and common keyboard patterns can make files vulnerable to dictionary attacks.
+- Compared two password-cracking approaches: an installation-based tool (JTR/Johnny) and online utilities, understanding their different workflows and practical use cases.
+- Reinforced the importance of creating strong, unique passwords to reduce the risk of successful dictionary-based attacks.
+
+### Overall Outcome
+
+Successfully completed the PDF password-cracking exercises using both GUI-based and browser-based tools, gaining hands-on experience with hash extraction, dictionary attacks, and password security concepts.
